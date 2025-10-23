@@ -38,8 +38,6 @@ The $\text{0.8 g/kg/day}$ RDA was established based on nitrogen balance studies 
 
 ### Sources on Protein Intake and Sarcopenia
 
-Below is a reformatted version of the provided document. I've organized it into a clear, spaced-out list of unique sources (combining duplicates where they appeared to reference the same article or page). Each entry includes the publisher, full or approximated title based on the original snippets, the discovered URL (hyperlinked), and a brief description excerpted from the original text or search results for context.
-
 - **Canadian Science Publishing**  
   **Title:** Protein “requirements” beyond the RDA: implications for optimizing health  
   **URL:** [https://cdnsciencepub.com/doi/10.1139/apnm-2015-0550](https://cdnsciencepub.com/doi/10.1139/apnm-2015-0550)  
