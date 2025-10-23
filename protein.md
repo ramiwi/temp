@@ -31,3 +31,53 @@ The consequences of a "low" protein diet (at or near the $\text{0.8 g/kg/day}$ R
 ### Conclusion: The $\text{0.8 g/kg/day}$ RDA is a Minimum, Not an Optimal Target
 
 The $\text{0.8 g/kg/day}$ RDA was established based on nitrogen balance studies in **young, sedentary men** to prevent outright protein deficiency. For anyone over the age of $\text{40}$ or $\text{50}$, or those with even minimal physical activity, it is widely considered a low and often inadequate intake for maintaining optimal muscle mass, strength, and overall health.
+
+
+### Sources on Protein Intake and Sarcopenia
+
+Below is a reformatted version of the provided document. I've organized it into a clear, spaced-out list of unique sources (combining duplicates where they appeared to reference the same article or page). Each entry includes the publisher, full or approximated title based on the original snippets, the discovered URL (hyperlinked), and a brief description excerpted from the original text or search results for context.
+
+- **Canadian Science Publishing**  
+  **Title:** Protein “requirements” beyond the RDA: implications for optimizing health  
+  **URL:** [https://cdnsciencepub.com/doi/10.1139/apnm-2015-0550](https://cdnsciencepub.com/doi/10.1139/apnm-2015-0550)  
+  **Description:** Higher protein intakes may help prevent age-related sarcopenia, the loss of muscle mass, and strength that predisposes older adults to frailty, disability, and loss of independence.
+
+- **Mayo Clinic Health System**  
+  **Title:** Are you getting too much protein?  
+  **URL:** [https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/are-you-getting-too-much-protein](https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/are-you-getting-too-much-protein)  
+  **Description:** Once you're between the ages of 40 and 50, sarcopenia — losing muscle mass as you age — begins to set in. To prevent this and to maintain independence and quality of life, your protein needs increase to about 1 gram per kilogram of body weight.
+
+- **Oxford Academic**  
+  **Title:** Higher dietary protein intake is associated with sarcopenia in older adults  
+  **URL:** [https://academic.oup.com/ageing/article/52/2/afad018/7036280](https://academic.oup.com/ageing/article/52/2/afad018/7036280)  
+  **Description:** Anabolic resistance refers to the phenomenon whereby older adults require a higher dose of protein to achieve the same response in muscle protein synthesis as younger adults.
+
+- **PubMed Central (PMC)**  
+  **Title:** Low protein intake, muscle strength and physical performance in older adults  
+  **URL:** [https://pmc.ncbi.nlm.nih.gov/articles/PMC6295979/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6295979/)  
+  **Description:** Older adults experience a gradual decline in muscle mass, strength and function with ageing (sarcopenia), which puts them at increased risk of falls, frailty, and dependency.
+
+- **MDPI**  
+  **Title:** Association of Protein Intake with Sarcopenia and Related Indicators in Korean Older Adults  
+  **URL:** [https://www.mdpi.com/2072-6643/16/24/4350](https://www.mdpi.com/2072-6643/16/24/4350)  
+  **Description:** Results: A meta-analysis found that the risk of sarcopenia was significantly higher in the <0.8 g/kg/day protein intake group compared to the 0.8-1.2 g/kg/day group. Based on evidence from various international observational and intervention studies, as well as expert consensus, the Korean Society of Geriatrics recommends higher protein intake for older adults.
+
+- **International Osteoporosis Foundation**  
+  **Title:** Protein and other nutrients  
+  **URL:** [https://www.osteoporosis.foundation/patients/prevention/protein-other-nutrients](https://www.osteoporosis.foundation/patients/prevention/protein-other-nutrients)  
+  **Description:** In the elderly with osteoporosis, higher protein intake (≥ 0.8 g/kg body weight/day, i.e., above the current RDA) may be recommended. Correction of poor protein nutrition in patients with a recent hip fracture has been shown to improve clinical outcomes. The duration of hospital stay is shortened, and mortality rates are reduced.
+
+- **ResearchGate**  
+  **Title:** Protein and Older Adults  
+  **URL:** [https://www.researchgate.net/publication/8089871_Protein_and_Older_Adults](https://www.researchgate.net/publication/8089871_Protein_and_Older_Adults)  
+  **Description:** This contributes to impaired wound healing, loss of skin elasticity, and an inability to fight infection. The recommended dietary allowance (RDA) for protein is often insufficient for older adults. The importance of dietary protein cannot be underestimated in the diets of older adults; inadequate protein intake contributes to a decrease in reserve capacity, increased skin fragility, decreased immune function, poorer healing, and longer recuperation from illness.
+
+- **Frontiers**  
+  **Title:** Role of protein intake in maintaining muscle mass composition during aging  
+  **URL:** [https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1547325/full](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1547325/full)  
+  **Description:** This deterioration significantly reduces mobility, increases frailty, and elevates the risk of falls, fractures, and disability, ultimately leading to a loss of independence and diminished quality of life.
+
+- **PubMed Central (PMC)**  
+  **Title:** Effect of Dietary Protein Intake on Bone Mineral Density and Fracture Risk in Older Adults: Systematic Review and Meta-Analysis  
+  **URL:** [https://pmc.ncbi.nlm.nih.gov/articles/PMC8599066/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8599066/)  
+  **Description:** The Acceptable Macronutrient Distribution Range (10%-35% of total energy intake [TEI]) and Recommended Dietary Allowance (RDA) for protein are guidelines, but evidence suggests higher intakes may benefit bone health in older adults.
