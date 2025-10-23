@@ -1,3 +1,6 @@
+>> Any evidence that lower protein diet has negative impact on non training/athlet adults?
+
+
 Absolutely. There is significant and growing evidence that a protein intake at or near the current Recommended Dietary Allowance ($\text{0.8 g/kg/day}$) is often **detrimental to the health of older adults and may not be optimal for many non-youth people**, regardless of their training status.
 
 The main concern centers on **Sarcopenia** (age-related loss of muscle mass and function).
